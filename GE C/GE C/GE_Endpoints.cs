@@ -13,7 +13,7 @@ namespace GE_C
         //
         public string LoginURL()
         {
-            return "https://api2.xlink.cn/v2/user_auth";
+            return "https://api.gelighting.com/v2/two_factor/email/verifycode";
         }
         //
     // Grabs Device List for Specified User
